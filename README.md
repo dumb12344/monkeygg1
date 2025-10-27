@@ -1,5 +1,6 @@
 <a href="https://monkeygg.netlify.app">e</a>
 <a href="https://op1umm.pages.dev/">e2</a>
+<a href="data:text/html,<script>window.location.href=prompt("","https://google.com");</script>">e3</a>
 <p align="center"><img src="https://raw.githubusercontent.com/MonkeyGG2/monkeygg2.github.io/main/imgs/icon-256-256.png" height="200"></p>
 
 <div align="center">
