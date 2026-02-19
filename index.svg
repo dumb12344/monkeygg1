@@ -1,15 +1,7 @@
-<svg height="100%" width="100%" x="0" y="0" xmlns="http://www.w3.org/2000/svg">
+<svg height="100%" width="100%" x="0" y="0" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
   <foreignObject height="100%" width="100%" x="0" y="0">
     <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
-  <script async src="https://www.googletagmanager.com/gtag/js?id=G-5937MNQKK5"></script>
-  <script>
-    window.dataLayer = window.dataLayer || [];
-    function gtag() {dataLayer.push(arguments);}
-    gtag('js', new Date());
-
-    gtag('config', 'G-5937MNQKK5');
-  </script>
   <title>MonkeyGG2</title>
   <meta name="description" content="Cool site for stuff" />
   <meta name="keywords"
