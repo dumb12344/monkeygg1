@@ -271,7 +271,7 @@
           <h5>Cloak</h5>
           <p>Toggles if Cloak (Hides site from history and being view online) is forced</p>
           <label class="switch">
-            <input id="cloakCheckboxInput" type="checkbox" hidden />
+            <input id="cloakCheckboxInput" type="checkbox" hidden="" />
             <div class="switch__wrapper">
               <div class="switch__toggle"></div>
             </div>
