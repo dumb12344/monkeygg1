@@ -375,7 +375,7 @@
           <h5>Background</h5>
           <p>Background can cause a lot of lag. Disable if your computer is diagnosed with low FPS.</p>
           <label class="switch">
-            <input type="checkbox" id="backgroundCheckboxInput" hidden />
+            <input type="checkbox" id="backgroundCheckboxInput" hidden="" />
             <div class="switch__wrapper">
               <div class="switch__toggle"></div>
             </div>
