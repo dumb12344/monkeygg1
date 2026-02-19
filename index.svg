@@ -75,7 +75,7 @@
     <div class="cloaklaunch">
       <h1 class="cloaker">Press Anywhere to cloak</h1>
       <h3 class="cloaker">(If you want to stop seeing this enable popups)</h3>
-      <span id="disableCloak">Click here if cloak isn't working</button>
+      <span id="disableCloak">Click here if cloak isn't working</span>
     </div>
     <div class="homepage">
       <div class="card-row">
